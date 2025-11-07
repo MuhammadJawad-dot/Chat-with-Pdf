@@ -1,0 +1,17 @@
+# Environment files
+.env
+*.env
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Node / React Native
+node_modules/
+.expo/
+.vscode/
+*.log
+
+# System files
+.DS_Store
